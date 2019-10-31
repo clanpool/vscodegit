@@ -20,3 +20,5 @@ push <br>
 - publish/backup/share <br>
 log <br>
 - general log for all the commits
+:q <br>
+to quit from the "git log" press "q" <br>
