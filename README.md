@@ -8,15 +8,15 @@ mkdir (directory name) <br>
 - (It creates folder/directory)
 
 ## git
-*Note: every git command alsways begin with "git"
+*Note: every git command alsways begin with "git"<br>
 status <br>
--(It gives information about your repository)
+-(It gives information about your repository)<br>
 add (file name) <br>
--(It prepares a file for commit)
+-(It prepares a file for commit) <br>
 commit -m "Good commit messages" <br>
--(It saves the added/prepared files)
+-(It saves the added/prepared files) <br>
 - -m: add a message about the commit <br>
 push <br>
-- publish/backup/share 
+- publish/backup/share <br>
 log <br>
 - general log for all the commits
